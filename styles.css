@@ -1,0 +1,16 @@
+/* styles.css */
+
+.title {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: pink;
+    color: purple;
+    padding: 10px;
+    margin: 10px 50px;
+
+}.recipes {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: lightblue;
+    color: darkred;
+    padding: 10px 30px;
+    margin: 10px 50px;
+}
